@@ -42,6 +42,15 @@
             </LocationScenarioReference>
          </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "C721C7FC13D0C3CD0097AB6F"
+            BuildableName = "iOS App Unit Tests.app"
+            BlueprintName = "iOS App Unit Tests"
+            ReferencedContainer = "container:Magical Record.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </TestAction>
    <LaunchAction
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.GDB"
